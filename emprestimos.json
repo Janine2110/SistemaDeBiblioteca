@@ -1,0 +1,19 @@
+[
+  {
+    "livro": {
+      "titulo": "E assim que acaba",
+      "autor": "Collen Hoover",
+      "isbn": "9788501119965",
+      "anoPublicacao": 2016
+    },
+    "membro": {
+      "nome": "janine",
+      "matricula": "12345",
+      "endereco": "cohab fragata",
+      "telefone": "4367534785"
+    },
+    "dataEmprestimo": "11/12/2024, 22:15:12",
+    "dataDevolucao": "",
+    "devolvido": false
+  }
+]
